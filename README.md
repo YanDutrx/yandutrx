@@ -1,9 +1,9 @@
 # Hello, I'm Yan Dutra! 👋
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yandutra?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/yandutra?label=Stars&style=for-the-badge&color=e3b341&logo=github" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/repo-size/yandutra/yandutra?label=Repo%20Size&style=for-the-badge&color=007acc&logo=github" alt="Repo Size">
+  <img src="https://img.shields.io/github/followers/YanDutrx?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/YanDutrx?label=Stars&style=for-the-badge&color=e3b341&logo=github" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/repo-size/YanDutrx/YanDutrx?label=Repo%20Size&style=for-the-badge&color=007acc&logo=github" alt="Repo Size">
 </p>
 
 ---
@@ -41,8 +41,8 @@ Here are the technologies I am familiar with and work with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yandutra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandutra&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanDutrx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanDutrx&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages">
 </p>
 
 ---
