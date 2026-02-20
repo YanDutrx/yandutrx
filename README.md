@@ -42,7 +42,7 @@ Here are the technologies I am familiar with and work with:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanDutrx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanDutrx&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanDutrx&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
