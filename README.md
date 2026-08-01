@@ -14,7 +14,7 @@ Hello! My name is **Yan Dutra**, I'm 20 years old, and I was born in São Paulo,
 
 Currently, I am pursuing a degree in **Computer Science** at **Universidade Estadual Paulista (UNESP)**. My main areas of interest include:
 
-*   **Object-Oriented Programming**
+*   **Articial Intelligence**
 *   **Data Science**
 *   **Calculus**
 
