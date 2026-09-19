@@ -1,121 +1,92 @@
-<!--
-  GitHub Profile README
-  Repository: yandutrx/yandutrx
--->
-
+<!-- HEADER -->
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHJyeGVsZ2N0bTgxeXhveWg0dHNlZXBwYWpvdXNkYWtxdmdkcmNybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hnnjpuPHxEzGo/giphy.gif" width="100%" alt="Animated profile banner">
-
-  <h1>Hi, I'm Yan Dutra 👋</h1>
-
-  <h3>Computer Science Student | Artificial Intelligence | Data Science</h3>
-
-  <p>
-    <a href="https://github.com/yandutrx">
-      <img src="https://img.shields.io/badge/GitHub-yandutrx-181717?style=for-the-badge&logo=github" alt="GitHub">
-    </a>
-    <img src="https://img.shields.io/badge/Location-Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brazil">
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/github/followers/yandutrx?label=Followers&style=flat-square&color=7AA2F7&logo=github" alt="GitHub Followers">
-    <img src="https://img.shields.io/github/stars/yandutrx?label=Stars&style=flat-square&color=BB9AF7&logo=github" alt="GitHub Stars">
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=150&section=header&text=Yan%20Dutra&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20UNESP&descSize=16&descAlignY=72&descColor=cbd5e1" width="100%" alt="Yan Dutra - Header">
 
 </div>
 
+<!-- INTRODUCTION -->
+<h2>About Me</h2>
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+
+      Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, currently studying at the Faculty of Science and Technology (FCT), in Presidente Prudente, Brazil.
+
+      I completed my high school education at **Colégio Esquema Único (Poliedro)**.
+
+      My main academic and technical interests are:
+
+      - Artificial Intelligence
+      - Data Science
+      - Applied Mathematics
+
+      I enjoy exploring the intersection of mathematics and computing, developing my technical knowledge, and applying theoretical concepts to practical problems.
+
+    </td>
+    <td width="30%" align="center" valign="middle">
+
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHJyeGVsZ2N0bTgxeXhveWg0dHNlZXBwYWpvdXNkYWtxdmdkcmNybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hnnjpuPHxEzGo/giphy.gif" width="165" alt="Animated Garfield GIF">
+
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 👨‍💻 About Me
+<h2>Education</h2>
 
-Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, currently pursuing my degree at the Faculty of Science and Technology (FCT), Presidente Prudente, Brazil.
+**B.Sc. in Computer Science**  
+São Paulo State University (UNESP)  
+Faculty of Science and Technology (FCT) — Presidente Prudente, Brazil
 
-I completed my high school education at **Colégio Esquema Único (Poliedro)**.
-
-My main academic and technical interests include:
-
-* **Artificial Intelligence** — intelligent systems, machine learning, and computational problem-solving.
-* **Data Science** — data analysis, information extraction, and data-driven solutions.
-* **Applied Mathematics** — mathematical foundations, modeling, and quantitative approaches to computational problems.
-
-I enjoy exploring the intersection of mathematics and computer science, developing my technical skills, and applying theoretical concepts to practical challenges.
-
----
-
-## 🎓 Education
-
-**B.Sc. in Computer Science**
-São Paulo State University (UNESP) — Faculty of Science and Technology (FCT)
-Presidente Prudente, São Paulo, Brazil
-
-**High School Education**
+**High School**  
 Colégio Esquema Único (Poliedro)
 
 ---
 
-## 🛠️ Technologies & Skills
-
-Here are the programming languages and web technologies I have knowledge of:
-
-### Programming Languages
+<h2>Technologies & Languages</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Assembly-2E3A59?style=for-the-badge&logoColor=white" alt="Assembly">
-  <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white" alt="GNU Octave">
+  <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
+  <img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Assembly-222222?style=flat-square&logoColor=FFFFFF" alt="Assembly">
+  <img src="https://img.shields.io/badge/Octave-222222?style=flat-square&logo=octave&logoColor=0790C0" alt="GNU Octave">
 </p>
 
-### Web Technologies
-
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+<h2>Connect With Me</h2>
 
-<div align="center">
-
-  <img width="49%" src="https://ghstats.dev/api/card?username=yandutrx&theme=tokyonight" alt="GitHub Stats">
-
-  <img width="49%" src="https://ghstats.dev/api/card?username=yandutrx&theme=tokyonight" alt="GitHub Activity">
-
-</div>
-
-### 💻 Most Used Languages
-
-<div align="center">
-
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandutrx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/yan-fdutra">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-243B55?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/_yan.dutra">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-243B55?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/yandutrx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-243B55?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
----
-
+<!-- FOOTER -->
 <div align="center">
 
-*"Combining mathematics, data, and code to solve meaningful problems."*
+  <br>
+
+  <i>"Combining mathematics, data, and code to solve meaningful problems."</i>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=70&section=footer" width="100%" alt="Footer">
 
 </div>
