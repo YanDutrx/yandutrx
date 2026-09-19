@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td valign="top" width="55%">
 
 Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, currently studying at the Faculty of Science and Technology (FCT), in Presidente Prudente, Brazil.
 
@@ -30,9 +30,9 @@ My main academic and technical interests are:
 I enjoy exploring the intersection of mathematics and computing, developing my technical knowledge, and applying theoretical concepts to practical problems.
 
 </td>
-<td width="40%" align="center">
+<td valign="top" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/hnnjpuPHxEzGo/giphy.gif" width="200" style="border-radius: 12px;" alt="Pink Panther"/>
+<img src="https://media.giphy.com/media/hnnjpuPHxEzGo/giphy.gif" width="340" alt="Pink Panther"/>
 
 </td>
 </tr>
@@ -44,14 +44,14 @@ I enjoy exploring the intersection of mathematics and computing, developing my t
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **B.Sc. in Computer Science**
 São Paulo State University (UNESP)
 Faculty of Science and Technology (FCT) — Presidente Prudente, Brazil
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **High School**
 Colégio Esquema Único (Poliedro)
