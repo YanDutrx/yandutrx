@@ -9,7 +9,7 @@
 
 </div>
 
----
+<br>
 
 ## About Me
 
@@ -17,7 +17,7 @@
 <tr>
 <td valign="top" width="55%">
 
-Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, currently studying at the Faculty of Science and Technology (FCT), in Presidente Prudente, Brazil.
+Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, in Presidente Prudente, Brazil.
 
 I completed my high school education at **Colégio Esquema Único (Poliedro)**.
 
@@ -38,7 +38,7 @@ I enjoy exploring the intersection of mathematics and computing, developing my t
 </tr>
 </table>
 
----
+<br>
 
 ## Education
 
@@ -60,7 +60,7 @@ Colégio Esquema Único (Poliedro)
 </tr>
 </table>
 
----
+<br>
 
 ## Technologies & Languages
 
@@ -82,7 +82,7 @@ Colégio Esquema Único (Poliedro)
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
----
+<br>
 
 ## GitHub Statistics
 
@@ -99,7 +99,7 @@ Colégio Esquema Único (Poliedro)
 
 </div>
 
----
+<br>
 
 ## Connect With Me
 
@@ -115,12 +115,14 @@ Colégio Esquema Único (Poliedro)
   </a>
 </p>
 
----
+<br>
 
 <div align="center">
 
 *"Overthinking, now with mathematical foundations."*
 
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A,1B3A5C&height=80&section=footer" alt="Footer"/>
