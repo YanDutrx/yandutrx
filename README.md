@@ -29,7 +29,7 @@ I enjoy exploring the intersection of mathematics and computing, developing my t
 
 <br clear="right"/>
 
-<br>
+---
 
 ### Education
 
@@ -37,7 +37,7 @@ I enjoy exploring the intersection of mathematics and computing, developing my t
 
 **High School** — Colégio Esquema Único (Poliedro)
 
-<br>
+---
 
 ### Technologies & Languages
 
@@ -59,7 +59,7 @@ I enjoy exploring the intersection of mathematics and computing, developing my t
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<br>
+---
 
 
 ### Connect With Me
