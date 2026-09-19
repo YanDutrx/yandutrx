@@ -11,13 +11,11 @@
 
 <br>
 
-## About Me
+### About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" src="https://media.giphy.com/media/hnnjpuPHxEzGo/giphy.gif" width="320" alt="Pink Panther"/>
 
-Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, in Presidente Prudente, Brazil.
+Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, currently studying at the Faculty of Science and Technology (FCT), in Presidente Prudente, Brazil.
 
 I completed my high school education at **Colégio Esquema Único (Poliedro)**.
 
@@ -29,40 +27,19 @@ My main academic and technical interests are:
 
 I enjoy exploring the intersection of mathematics and computing, developing my technical knowledge, and applying theoretical concepts to practical problems.
 
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://media.giphy.com/media/hnnjpuPHxEzGo/giphy.gif" width="340" alt="Pink Panther"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br>
 
-## Education
+### Education
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**B.Sc. in Computer Science** — São Paulo State University (UNESP), Faculty of Science and Technology (FCT), Presidente Prudente, Brazil
 
-**B.Sc. in Computer Science**
-São Paulo State University (UNESP)
-Faculty of Science and Technology (FCT) — Presidente Prudente, Brazil
-
-</td>
-<td width="50%" valign="top">
-
-**High School**
-Colégio Esquema Único (Poliedro)
-
-</td>
-</tr>
-</table>
+**High School** — Colégio Esquema Único (Poliedro)
 
 <br>
 
-## Technologies & Languages
+### Technologies & Languages
 
 **Programming Languages**
 
@@ -84,24 +61,8 @@ Colégio Esquema Único (Poliedro)
 
 <br>
 
-## GitHub Statistics
 
-<div align="center">
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=yandutrx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=yandutrx&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandutrx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-## Connect With Me
+### Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/yan-fdutra">
