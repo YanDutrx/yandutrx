@@ -1,96 +1,117 @@
+<!--
+  GitHub Profile README
+  Repository: yandutrx/yandutrx
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003B00&height=150&section=header&text=Yan%20Dutra&fontSize=48&fontColor=00FF41&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20UNESP&descSize=16&descAlignY=72&descColor=CCFFCC" width="100%" alt="Yan Dutra - Matrix Header">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A,1B3A5C&height=160&section=header&text=Yan%20Dutra&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20UNESP&descSize=18&descAlignY=60&descColor=A0C4E8" alt="Header"/>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
 <table>
-  <tr>
-    <td width="70%" valign="top">
+<tr>
+<td width="60%">
 
 Hello! I'm **Yan Dutra**, a 21-year-old Computer Science student at **São Paulo State University (UNESP)**, currently studying at the Faculty of Science and Technology (FCT), in Presidente Prudente, Brazil.
 
 I completed my high school education at **Colégio Esquema Único (Poliedro)**.
 
-My main academic and technical interests include:
+My main academic and technical interests are:
 
-- **Artificial Intelligence**
-- **Data Science**
-- **Applied Mathematics**
+- **Artificial Intelligence** — intelligent systems, machine learning, and computational problem-solving.
+- **Data Science** — data analysis, information extraction, and data-driven solutions.
+- **Applied Mathematics** — mathematical foundations, modeling, and quantitative approaches to computational problems.
 
-I am particularly interested in exploring the intersection of mathematics and computing, combining theoretical foundations with practical software development.
+I enjoy exploring the intersection of mathematics and computing, developing my technical knowledge, and applying theoretical concepts to practical problems.
 
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHJyeGVsZ2N0bTgxeXhveWg0dHNlZXBwYWpvdXNkYWtxdmdkcmNybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hnnjpuPHxEzGo/giphy.gif" width="165" alt="Pink Panther GIF">
-    </td>
-  </tr>
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/hnnjpuPHxEzGo/giphy.gif" width="200" style="border-radius: 12px;" alt="Pink Panther"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🎓 Education
+## Education
+
+<table>
+<tr>
+<td width="50%">
 
 **B.Sc. in Computer Science**
-
 São Paulo State University (UNESP)
-
 Faculty of Science and Technology (FCT) — Presidente Prudente, Brazil
 
-**High School**
+</td>
+<td width="50%">
 
+**High School**
 Colégio Esquema Único (Poliedro)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Technologies and Languages
+## Technologies & Languages
 
 **Programming Languages**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-003B00?style=for-the-badge&logo=c&logoColor=00FF41" alt="C">
-  <img src="https://img.shields.io/badge/Java-003B00?style=for-the-badge&logo=openjdk&logoColor=00FF41" alt="Java">
-  <img src="https://img.shields.io/badge/Python-003B00?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-003B00?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Assembly-003B00?style=for-the-badge&logoColor=00FF41" alt="Assembly">
-  <img src="https://img.shields.io/badge/Octave%20(Matlab)-003B00?style=for-the-badge&logo=octave&logoColor=00FF41" alt="Octave (Matlab)">
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Assembly-2E3A59?style=for-the-badge&logoColor=white" alt="Assembly">
+  <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white" alt="GNU Octave">
 </p>
 
 **Web Technologies**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-003B00?style=for-the-badge&logo=html5&logoColor=00FF41" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-003B00?style=for-the-badge&logo=css3&logoColor=00FF41" alt="CSS3">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 ---
 
-### 📊 GitHub Overview
+## GitHub Statistics
 
-<p align="center">
-  <a href="https://ghstats.dev/">
-    <img src="https://ghstats.dev/api/card?username=yandutrx&theme=forest" width="80%" alt="GitHub Statistics">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://ghstats.dev/">
-    <img src="https://img.shields.io/badge/Explore%20GHStats-003B00?style=for-the-badge&logo=github&logoColor=00FF41" alt="GHStats">
-  </a>
-</p>
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=yandutrx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=yandutrx&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+
+</div>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandutrx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
 
 ---
 
-### 📫 Connect With Me
+## Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yan-fdutra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-003B00?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn">
+<p>
+  <a href="https://www.linkedin.com/in/yan-fdutra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/_yan.dutra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-003B00?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram">
+  <a href="https://www.instagram.com/_yan.dutra">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/yandutrx">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -98,10 +119,8 @@ Colégio Esquema Único (Poliedro)
 
 <div align="center">
 
-<i>"Overthinking, now with mathematical foundations."</i>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B00,100:000000&height=100&section=footer&text=THE%20MATRIX&fontSize=24&fontColor=00FF41&fontAlignY=55" width="100%" alt="Matrix Footer">
+*"Overthinking, now with mathematical foundations."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A,1B3A5C&height=80&section=footer" alt="Footer"/>
